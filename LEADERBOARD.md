@@ -12,7 +12,7 @@ _This file is generated automatically by GitHub Actions from each participant's 
 | Faseena Sherin C | [@faseenasherin](https://github.com/faseenasherin) | 15 | Q1, Q2 | ✅ |
 | Habeeba Mol M A | [@habeebamolma](https://github.com/habeebamolma) | 5 | Q1 | ✅ |
 
-## team10  (team total: 30 XP)
+## team10  (team total: 50 XP)
 
 | Name | GitHub | XP | Levels Completed | Status |
 |------|--------|----|-------------------|--------|
